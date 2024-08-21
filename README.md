@@ -83,8 +83,6 @@ print(len(x_test))
 # DATASET:
 ![307534704-564dbb82-2f4f-4a86-b8d9-681f46ea1519](https://github.com/user-attachments/assets/a18a3060-d638-47cc-bba6-7d5f6ec0ce99)
 
-# DROPPING THE UNWANTED DATASET:
-![307534704-564dbb82-2f4f-4a86-b8d9-681f46ea1519](https://github.com/user-attachments/assets/48458a1e-5be0-42e5-a8be-e1fa9a561867)
 
 # DROPPING THE UNWANTED DATASET:
 ![307534746-9bb25efd-5226-46ea-aef1-de170cbf1f6c](https://github.com/user-attachments/assets/0c994607-2e9d-4085-b2d1-16a4f74c8add)
